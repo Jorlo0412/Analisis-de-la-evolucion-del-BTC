@@ -17,3 +17,4 @@ En este apartado he querido aplicar modelos predictivos, pese a que arriba compr
 ## Next Steps
 En este apartado hay representados un conato de estudio acerca de la correlación del consumo energético, la minería y los precios del BTC. Debido a la escasez de fuentes de datos gratuitas lo dejo, por el momento, para el futuro. 
 
+PD: Debido al peso de la base de datos de Twitter, Github no me permite hacerla accesible en la carpeta de data. Se puede descargar de aquí: https://www.kaggle.com/datasets/gautamchettiar/bitcoin-sentiment-analysis-twitter-data
